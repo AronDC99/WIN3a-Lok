@@ -9,3 +9,5 @@
 ## 3.12.2018
 Í dag setti ég upp OU kerfið í scriptunni fyrir notendurna og breytti scriptunni til þess að virka fyrir þetta verkefni, ég á eftir að laga eitthvað smá vesen með Nemendurna og notenda nöfnin þeirra
 
+## 6.12.2018
+í dag löguðum við functionið sem sér um  notendanöfn nemenda, settum upp vefsvæði og heima svæði fyrir notendur, einnig settum við upp prentara og screen saver með scriptu
